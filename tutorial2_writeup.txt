@@ -1,0 +1,1 @@
+Hal yang dapat dipelajari dari tutorial kali ini adalah cara untuk melakukan mapping dengan method RequestParam dan PathVariable. Agar meminimalisir terjadinya compile error ataupun gagal melakukan mapping, pastikan isi dari method dan juga halaman HTML yang ingin kita mapping sudah ditulis dengan baik dan benar.
